@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Darian Skinner  
 
-<!--
-**darianscott/darianscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **InnovativeAI LLC | AI Consultant & Automation Specialist**  
 
-Here are some ideas to get you started:
+🔹 Passionate about AI automation and data analytics  
+🔹 Helping businesses streamline operations with AI-powered solutions  
+🔹 Exploring cybersecurity and data-driven decision-making  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Languages**: Python, SQL, HTML, JavaScript  
+- **Data & AI**: Pandas, NumPy, Matplotlib, OpenAI API  
+- **Cloud & Virtualization**: Proxmox, NAS setups  
+- **Other**: Git, Linux, Microsoft Office, Google Suite  
+
+## 📌 Current Projects  
+- Building AI-driven business automation tools  
+- Learning and applying cybersecurity fundamentals  
+- Experimenting with AI chatbots for small businesses  
+
+## 📫 Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/innovativeai)  
+- 📝 [My Blog/Website](#) *(Coming Soon!)*  
+- ✉️ Reach me at: **darianscott@innovativeai.info**  
+
+---  
+
+💡 *Always learning, always building!* 🚀  
+
+
