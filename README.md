@@ -20,7 +20,7 @@
 ## 📫 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/innovativeai)  
 - 📝 [My Blog/Website](#) *(Coming Soon!)*  
-- ✉️ Reach me at: **darianscott@innovativeai.info**  
+- ✉️ Reach me at: **darian.innovativeai@gmail.com**  
 
 ---  
 
